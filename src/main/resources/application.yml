@@ -1,0 +1,7 @@
+server:
+  port: 6689
+spring:
+  jpa:
+    show-sql: true
+  mvc:
+
